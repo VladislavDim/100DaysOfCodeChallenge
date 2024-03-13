@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\bin\Debug\net8.0\LargestZeroSubmatrix.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\bin\Debug\net8.0\LargestZeroSubmatrix.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\bin\Debug\net8.0\LargestZeroSubmatrix.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\bin\Debug\net8.0\LargestZeroSubmatrix.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\bin\Debug\net8.0\LargestZeroSubmatrix.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\refint\LargestZeroSubmatrix.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\LargestZeroSubmatrix.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LargestZeroSubmatrix\obj\Debug\net8.0\ref\LargestZeroSubmatrix.dll
