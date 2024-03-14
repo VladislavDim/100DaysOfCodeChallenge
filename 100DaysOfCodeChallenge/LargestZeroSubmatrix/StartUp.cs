@@ -1,63 +1,67 @@
-﻿namespace LargestZeroSubmatrix
+﻿using System;
+
+public class LargestZeroSubmatrix
 {
-    public class StartUp
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int size = int.Parse(Console.ReadLine());
+        int[][] matrix = new int[size][];
+
+        for (int m = 0; m < size; m++)
         {
-            int[,] matrix = new int[,] {
-            {0, 1, 1, 1},
-            {1, 1, 1, 1},
-            {1, 1, 0, 0},
-            {1, 1, 0, 0}};
+            int[] row = Console.ReadLine()
+                .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
 
-            int rows = matrix.GetLength(0);
-            int cols = matrix.GetLength(1);
+            matrix[m] = row;
+        }
 
-            int minLength = int.MaxValue;
-            int sum = 0;
+        int[,] dp = new int[matrix.Length, matrix[0].Length];
 
-            for (int r = 0; r < rows; r++)
+        // Filling the DP table
+        for (int i = 0; i < matrix.Length; i++)
+        {
+            for (int j = 0; j < matrix[0].Length; j++)
             {
-                for (int c = 0; c < cols; c++)
+                if (matrix[i][j] == 0)
                 {
-                    int crnSum = 0;
+                    dp[i, j] = 1;
 
-                    if (matrix[r, c] == 0)
+                    if (i > 0 && j > 0)
                     {
-                        int count = 0;
-                        crnSum++;
-                        int minCrnLength = int.MaxValue;
-
-                        while (matrix[r + count, c] == 0)
-                        {
-                            count++;
-                            crnSum++;
-
-                            minCrnLength = CheckSequence(matrix, r, c);
-
-                            if (minCrnLength < minLength)
-                            {
-                                minLength = minCrnLength;
-                            }
-
-                        }
+                        dp[i, j] += Math.Min(Math.Min(dp[i - 1, j], dp[i, j - 1]), dp[i - 1, j - 1]);
                     }
                 }
             }
-
         }
 
-        private static int CheckSequence(int[,] matrix, int r, int c)
+        // Finding the coordinates of the largest submatrix
+        int maxSubmatrixSize = 0;
+        int maxSubmatrixRow = 0;
+        int maxSubmatrixCol = 0;
+
+        for (int i = 0; i < dp.GetLength(0); i++)
         {
-            int count = 1;
-
-            while ((matrix[r, c + count] == 0))
+            for (int j = 0; j < dp.GetLength(1); j++)
             {
-                count++;
+                if (dp[i, j] > maxSubmatrixSize)
+                {
+                    maxSubmatrixSize = dp[i, j];
+                    maxSubmatrixRow = i;
+                    maxSubmatrixCol = j;
+                }
             }
+        }
 
-            return count;
-
+        // Displaying the largest submatrix
+        for (int i = maxSubmatrixRow - maxSubmatrixSize + 1; i <= maxSubmatrixRow; i++)
+        {
+            for (int j = maxSubmatrixCol - maxSubmatrixSize + 1; j <= maxSubmatrixCol; j++)
+            {
+                Console.Write(matrix[i][j] + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
