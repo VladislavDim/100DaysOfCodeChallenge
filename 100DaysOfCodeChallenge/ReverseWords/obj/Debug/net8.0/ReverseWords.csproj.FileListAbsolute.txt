@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\bin\Debug\net8.0\ReverseWords.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\bin\Debug\net8.0\ReverseWords.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\bin\Debug\net8.0\ReverseWords.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\bin\Debug\net8.0\ReverseWords.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\bin\Debug\net8.0\ReverseWords.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\refint\ReverseWords.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ReverseWords.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseWords\obj\Debug\net8.0\ref\ReverseWords.dll
