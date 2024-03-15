@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\bin\Debug\net8.0\UniqueLongestSubstring.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\bin\Debug\net8.0\UniqueLongestSubstring.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\bin\Debug\net8.0\UniqueLongestSubstring.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\bin\Debug\net8.0\UniqueLongestSubstring.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\bin\Debug\net8.0\UniqueLongestSubstring.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\refint\UniqueLongestSubstring.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\UniqueLongestSubstring.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\UniqueLongestSubstring\obj\Debug\net8.0\ref\UniqueLongestSubstring.dll

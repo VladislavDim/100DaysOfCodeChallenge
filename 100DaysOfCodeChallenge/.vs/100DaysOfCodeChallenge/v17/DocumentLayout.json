@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}|UniqueLongestSubstring\\UniqueLongestSubstring.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\uniquelongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}|UniqueLongestSubstring\\UniqueLongestSubstring.csproj|solutionrelative:uniquelongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE626355-391A-4F5D-AFB6-B2C6E1963327}|ReverseWords\\ReverseWords.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\reversewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE626355-391A-4F5D-AFB6-B2C6E1963327}|ReverseWords\\ReverseWords.csproj|solutionrelative:reversewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,23 +26,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\UniqueLongestSubstring\\Program.cs",
+              "RelativeDocumentMoniker": "UniqueLongestSubstring\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\UniqueLongestSubstring\\Program.cs",
+              "RelativeToolTip": "UniqueLongestSubstring\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T06:00:50.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ReverseWords",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\ReverseWords.csproj",
               "RelativeDocumentMoniker": "ReverseWords\\ReverseWords.csproj",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\ReverseWords.csproj",
               "RelativeToolTip": "ReverseWords\\ReverseWords.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T09:37:21.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T09:37:21.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\Program.cs",
               "RelativeDocumentMoniker": "ReverseWords\\Program.cs",
@@ -46,12 +62,11 @@
               "RelativeToolTip": "ReverseWords\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:10:12.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:10:12.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LargestZeroSubmatrix\\StartUp.cs",
               "RelativeDocumentMoniker": "LargestZeroSubmatrix\\StartUp.cs",
@@ -59,8 +74,7 @@
               "RelativeToolTip": "LargestZeroSubmatrix\\StartUp.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:20:25.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T20:20:25.783Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargestZeroSubmatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a3126e825f292b3d7763cdae0759a712de88ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+183913b1ff2cd3a076e9f628e47b1b10adb32a9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargestZeroSubmatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargestZeroSubmatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

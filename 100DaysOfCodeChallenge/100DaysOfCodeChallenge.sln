@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestZeroSubmatrix", "LargestZeroSubmatrix\LargestZeroSubmatrix.csproj", "{92A74470-12BA-4A67-B662-B99F48803E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{EE626355-391A-4F5D-AFB6-B2C6E1963327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{EE626355-391A-4F5D-AFB6-B2C6E1963327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueLongestSubstring", "UniqueLongestSubstring\UniqueLongestSubstring.csproj", "{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EE626355-391A-4F5D-AFB6-B2C6E1963327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE626355-391A-4F5D-AFB6-B2C6E1963327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE626355-391A-4F5D-AFB6-B2C6E1963327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCB883E-ED4A-4E3B-8100-20EBF8DF12D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
