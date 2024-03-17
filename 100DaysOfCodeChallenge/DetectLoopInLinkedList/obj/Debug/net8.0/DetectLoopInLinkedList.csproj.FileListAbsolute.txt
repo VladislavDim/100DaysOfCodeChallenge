@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\bin\Debug\net8.0\DetectLoopInLinkedList.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\bin\Debug\net8.0\DetectLoopInLinkedList.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\bin\Debug\net8.0\DetectLoopInLinkedList.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\bin\Debug\net8.0\DetectLoopInLinkedList.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\bin\Debug\net8.0\DetectLoopInLinkedList.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\refint\DetectLoopInLinkedList.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\DetectLoopInLinkedList.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectLoopInLinkedList\obj\Debug\net8.0\ref\DetectLoopInLinkedList.dll
