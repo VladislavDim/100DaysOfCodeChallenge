@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{742E8B1C-839D-41E7-9F89-ACA9EC13F295}|DetectLoopInLinkedList\\DetectLoopInLinkedList.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\detectloopinlinkedlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742E8B1C-839D-41E7-9F89-ACA9EC13F295}|DetectLoopInLinkedList\\DetectLoopInLinkedList.csproj|solutionrelative:detectloopinlinkedlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,24 +54,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\MyCustomQueue.cs",
+              "RelativeDocumentMoniker": "MyCustomQueue\\MyCustomQueue.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\MyCustomQueue.cs",
+              "RelativeToolTip": "MyCustomQueue\\MyCustomQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:53:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMyCustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\IMyCustomQueue.cs",
+              "RelativeDocumentMoniker": "MyCustomQueue\\IMyCustomQueue.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\IMyCustomQueue.cs",
+              "RelativeToolTip": "MyCustomQueue\\IMyCustomQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:52:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\Program.cs",
+              "RelativeDocumentMoniker": "MyCustomQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\Program.cs",
+              "RelativeToolTip": "MyCustomQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:51:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LinkedList.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectLoopInLinkedList\\LinkedList.cs",
               "RelativeDocumentMoniker": "DetectLoopInLinkedList\\LinkedList.cs",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectLoopInLinkedList\\LinkedList.cs",
               "RelativeToolTip": "DetectLoopInLinkedList\\LinkedList.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T06:10:17.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectLoopInLinkedList\\Node.cs",
               "RelativeDocumentMoniker": "DetectLoopInLinkedList\\Node.cs",
@@ -72,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectLoopInLinkedList\\StartUp.cs",
               "RelativeDocumentMoniker": "DetectLoopInLinkedList\\StartUp.cs",
@@ -85,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\PalindromeChecker\\Program.cs",
               "RelativeDocumentMoniker": "PalindromeChecker\\Program.cs",
@@ -98,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\UniqueLongestSubstring\\Program.cs",
               "RelativeDocumentMoniker": "UniqueLongestSubstring\\Program.cs",
@@ -111,18 +162,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ReverseWords",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\ReverseWords.csproj",
               "RelativeDocumentMoniker": "ReverseWords\\ReverseWords.csproj",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\ReverseWords.csproj",
               "RelativeToolTip": "ReverseWords\\ReverseWords.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T09:37:21.221Z"
+              "WhenOpened": "2024-03-14T09:37:21.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\Program.cs",
               "RelativeDocumentMoniker": "ReverseWords\\Program.cs",
@@ -130,11 +182,12 @@
               "RelativeToolTip": "ReverseWords\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:10:12.362Z"
+              "WhenOpened": "2024-03-14T07:10:12.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LargestZeroSubmatrix\\StartUp.cs",
               "RelativeDocumentMoniker": "LargestZeroSubmatrix\\StartUp.cs",

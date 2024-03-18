@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\bin\Debug\net8.0\CustomQueue.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\bin\Debug\net8.0\CustomQueue.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\bin\Debug\net8.0\CustomQueue.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\bin\Debug\net8.0\CustomQueue.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\bin\Debug\net8.0\CustomQueue.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\refint\CustomQueue.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\CustomQueue.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MyCustomQueue\obj\Debug\net8.0\ref\CustomQueue.dll
