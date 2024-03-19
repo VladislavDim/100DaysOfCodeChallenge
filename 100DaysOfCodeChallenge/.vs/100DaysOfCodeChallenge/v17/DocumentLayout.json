@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35C7D8B3-913D-4533-8D06-C049A3700446}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C7D8B3-913D-4533-8D06-C049A3700446}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|solutionrelative:mergetwosortedlists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35C7D8B3-913D-4533-8D06-C049A3700446}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mergetwosortedlists\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C7D8B3-913D-4533-8D06-C049A3700446}|MergeTwoSortedLists\\MergeTwoSortedLists.csproj|solutionrelative:mergetwosortedlists\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\MyCustomQueue.csproj|solutionrelative:mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|solutionrelative:mycustomqueue\\mycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{742E8B1C-839D-41E7-9F89-ACA9EC13F295}|DetectLoopInLinkedList\\DetectLoopInLinkedList.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\detectloopinlinkedlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +45,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE626355-391A-4F5D-AFB6-B2C6E1963327}|ReverseWords\\ReverseWords.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\reversewords\\reversewords.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{EE626355-391A-4F5D-AFB6-B2C6E1963327}|ReverseWords\\ReverseWords.csproj|solutionrelative:reversewords\\reversewords.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|solutionrelative:mycustomqueue\\imycustomqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5946F56-FA75-4A6E-8889-E18FBA298A96}|MyCustomQueue\\CustomQueue.csproj|solutionrelative:mycustomqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeTwoSortedLists\\ListNode.cs",
+              "RelativeDocumentMoniker": "MergeTwoSortedLists\\ListNode.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeTwoSortedLists\\ListNode.cs",
+              "RelativeToolTip": "MergeTwoSortedLists\\ListNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:50:02.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeTwoSortedLists\\Program.cs",
+              "RelativeDocumentMoniker": "MergeTwoSortedLists\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeTwoSortedLists\\Program.cs",
+              "RelativeToolTip": "MergeTwoSortedLists\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:49:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MyCustomQueue.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\MyCustomQueue.cs",
               "RelativeDocumentMoniker": "MyCustomQueue\\MyCustomQueue.cs",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IMyCustomQueue.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\IMyCustomQueue.cs",
               "RelativeDocumentMoniker": "MyCustomQueue\\IMyCustomQueue.cs",
@@ -79,12 +113,11 @@
               "RelativeToolTip": "MyCustomQueue\\IMyCustomQueue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:52:07.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T05:52:07.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MyCustomQueue\\Program.cs",
               "RelativeDocumentMoniker": "MyCustomQueue\\Program.cs",
@@ -92,8 +125,7 @@
               "RelativeToolTip": "MyCustomQueue\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T05:51:48.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T05:51:48.338Z"
             },
             {
               "$type": "Document",
@@ -105,8 +137,7 @@
               "RelativeToolTip": "DetectLoopInLinkedList\\LinkedList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T06:10:17.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T06:10:17.219Z"
             },
             {
               "$type": "Document",
@@ -118,8 +149,7 @@
               "RelativeToolTip": "DetectLoopInLinkedList\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T05:51:06.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T05:51:06.608Z"
             },
             {
               "$type": "Document",
@@ -131,8 +161,7 @@
               "RelativeToolTip": "DetectLoopInLinkedList\\StartUp.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T05:50:40.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T05:50:40.048Z"
             },
             {
               "$type": "Document",
@@ -144,8 +173,7 @@
               "RelativeToolTip": "PalindromeChecker\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T05:42:07.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T05:42:07.407Z"
             },
             {
               "$type": "Document",
@@ -157,8 +185,7 @@
               "RelativeToolTip": "UniqueLongestSubstring\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T06:00:50.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T06:00:50.626Z"
             },
             {
               "$type": "Document",
@@ -169,8 +196,7 @@
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseWords\\ReverseWords.csproj",
               "RelativeToolTip": "ReverseWords\\ReverseWords.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T09:37:21.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T09:37:21.221Z"
             },
             {
               "$type": "Document",
@@ -182,8 +208,7 @@
               "RelativeToolTip": "ReverseWords\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:10:12.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:10:12.362Z"
             },
             {
               "$type": "Document",
@@ -195,8 +220,7 @@
               "RelativeToolTip": "LargestZeroSubmatrix\\StartUp.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAgwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T20:20:25.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T20:20:25.783Z"
             }
           ]
         }
