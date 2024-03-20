@@ -18,35 +18,35 @@
 
             List<int> mergedList = new List<int>();
 
-            int minLength = Math.Min(firstList.Count, secondList.Count);
+            int i = 0, j = 0;
 
-            for (int i = 0; i < minLength; i++)
+            while (i < firstList.Count && j < secondList.Count)
             {
-                int minNum = Math.Min(firstList[i], secondList[i]);
-                int maxNum = Math.Max(firstList[i], secondList[i]);
-
-                mergedList.Add(minNum);
-                mergedList.Add(maxNum);
+                if (firstList[i] < secondList[j])
+                {
+                    mergedList.Add(firstList[i]);
+                    i++;
+                }
+                else
+                {
+                    mergedList.Add(secondList[j]);
+                    j++;
+                }
             }
 
-            if (firstList.Count > secondList.Count)
+            while (i < firstList.Count)
             {
-                AddRemainingValues(firstList, mergedList, minLength);
+                mergedList.Add(firstList[i]);
+                i++;
             }
-            else if (secondList.Count > firstList.Count)
+
+            while (j < secondList.Count)
             {
-                AddRemainingValues(secondList, mergedList, minLength);
+                mergedList.Add(secondList[j]);
+                j++;
             }
 
             Console.WriteLine(String.Join("->", mergedList));
-        }
-
-        private static void AddRemainingValues(List<int> remainingValues, List<int> mergedList, int minLength)
-        {
-            for (int i = minLength; i < remainingValues.Count; i++)
-            {
-                mergedList.Add(remainingValues[i]);
-            }
         }
     }
 }
