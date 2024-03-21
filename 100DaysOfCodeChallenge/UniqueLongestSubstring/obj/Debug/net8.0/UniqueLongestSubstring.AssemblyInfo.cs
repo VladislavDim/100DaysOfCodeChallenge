@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniqueLongestSubstring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac38beb1cb8ab88004fcfd9b85df10b3bc9ec5dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0590d7418d6aea3c256120d52feeed134874ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniqueLongestSubstring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniqueLongestSubstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

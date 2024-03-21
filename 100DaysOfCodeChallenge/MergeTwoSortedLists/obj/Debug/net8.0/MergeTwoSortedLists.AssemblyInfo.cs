@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeTwoSortedLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+787c802e41604c2f9d13d371c913f386f12955f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0590d7418d6aea3c256120d52feeed134874ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeTwoSortedLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeTwoSortedLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
