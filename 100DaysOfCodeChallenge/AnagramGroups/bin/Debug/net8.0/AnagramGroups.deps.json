@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AnagramGroups/1.0.0": {
+        "runtime": {
+          "AnagramGroups.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnagramGroups/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
