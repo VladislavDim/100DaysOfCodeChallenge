@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\bin\Debug\net8.0\ValidParentheses.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\bin\Debug\net8.0\ValidParentheses.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\bin\Debug\net8.0\ValidParentheses.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\bin\Debug\net8.0\ValidParentheses.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\refint\ValidParentheses.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ValidParentheses\obj\Debug\net8.0\ref\ValidParentheses.dll
