@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DetectLoopInLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2ab35964da588732b5bb407c5789a8d340910f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6c37e83ba79a3d9e9450377ae92967fa27ca15")]
 [assembly: System.Reflection.AssemblyProductAttribute("DetectLoopInLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DetectLoopInLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
