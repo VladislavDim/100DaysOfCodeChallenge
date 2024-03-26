@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\bin\Debug\net8.0\ThreeSum.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\bin\Debug\net8.0\ThreeSum.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\bin\Debug\net8.0\ThreeSum.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\bin\Debug\net8.0\ThreeSum.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\bin\Debug\net8.0\ThreeSum.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\refint\ThreeSum.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ThreeSum.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ThreeSum\obj\Debug\net8.0\ref\ThreeSum.dll
