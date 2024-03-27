@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{7C4E4874-AC58-4E89-B08B-1B6B90A2A4DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{2E4B8C75-3F06-47B4-A8EA-1F88E0473465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeSum", "ThreeSum\ThreeSum.csproj", "{2E4B8C75-3F06-47B4-A8EA-1F88E0473465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakElement", "PeakElement\PeakElement.csproj", "{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2E4B8C75-3F06-47B4-A8EA-1F88E0473465}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E4B8C75-3F06-47B4-A8EA-1F88E0473465}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E4B8C75-3F06-47B4-A8EA-1F88E0473465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
