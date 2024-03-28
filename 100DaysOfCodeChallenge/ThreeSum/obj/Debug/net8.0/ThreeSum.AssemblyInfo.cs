@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3750e7d56f42765d250b2eba784212f21c23c2a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee0cd7f9f2d08580d13d32a3f29d54925d5461c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

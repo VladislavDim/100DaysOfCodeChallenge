@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\bin\Debug\net8.0\LongestSubarrayWithSumK.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\bin\Debug\net8.0\LongestSubarrayWithSumK.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\bin\Debug\net8.0\LongestSubarrayWithSumK.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\bin\Debug\net8.0\LongestSubarrayWithSumK.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\bin\Debug\net8.0\LongestSubarrayWithSumK.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\refint\LongestSubarrayWithSumK.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\LongestSubarrayWithSumK.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LongestSubarrayWithSumK\obj\Debug\net8.0\ref\LongestSubarrayWithSumK.dll
