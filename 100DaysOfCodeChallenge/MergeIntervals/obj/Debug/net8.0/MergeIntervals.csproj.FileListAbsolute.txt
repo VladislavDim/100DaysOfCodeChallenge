@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\bin\Debug\net8.0\MergeIntervals.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\bin\Debug\net8.0\MergeIntervals.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\bin\Debug\net8.0\MergeIntervals.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\bin\Debug\net8.0\MergeIntervals.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\bin\Debug\net8.0\MergeIntervals.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\refint\MergeIntervals.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\MergeIntervals.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\MergeIntervals\obj\Debug\net8.0\ref\MergeIntervals.dll
