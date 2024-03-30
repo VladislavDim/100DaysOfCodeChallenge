@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeakElement", "PeakElement\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubarrayWithSumK", "LongestSubarrayWithSumK\LongestSubarrayWithSumK.csproj", "{C8A04D60-F0BA-4A0C-8B7B-4BBABE8E364A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeIntervals", "MergeIntervals\MergeIntervals.csproj", "{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeIntervals", "MergeIntervals\MergeIntervals.csproj", "{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountIslands", "CountIslands\CountIslands.csproj", "{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
