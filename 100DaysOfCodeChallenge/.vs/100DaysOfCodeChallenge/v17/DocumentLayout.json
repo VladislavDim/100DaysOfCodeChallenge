@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A25AA451-A0BB-4A5C-A277-B8A62C2F87CA}|WordSearch\\WordSearch.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25AA451-A0BB-4A5C-A277-B8A62C2F87CA}|WordSearch\\WordSearch.csproj|solutionrelative:wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}|CountIslands\\CountIslands.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\countislands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}|CountIslands\\CountIslands.csproj|solutionrelative:countislands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\WordSearch\\Program.cs",
+              "RelativeDocumentMoniker": "WordSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\WordSearch\\Program.cs",
+              "RelativeToolTip": "WordSearch\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswDwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:58:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\CountIslands\\Program.cs",
               "RelativeDocumentMoniker": "CountIslands\\Program.cs",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\CountIslands\\Program.cs",
               "RelativeToolTip": "CountIslands\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-30T05:45:38.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeIntervals\\Program.cs",
               "RelativeDocumentMoniker": "MergeIntervals\\Program.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestSubarrayWithSumK\\Program.cs",
               "RelativeDocumentMoniker": "LongestSubarrayWithSumK\\Program.cs",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\PeakElement\\Program.cs",
               "RelativeDocumentMoniker": "PeakElement\\Program.cs",
