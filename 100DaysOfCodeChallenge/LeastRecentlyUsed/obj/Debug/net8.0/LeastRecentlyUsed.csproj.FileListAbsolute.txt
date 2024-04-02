@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\bin\Debug\net8.0\LeastRecentlyUsed.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\bin\Debug\net8.0\LeastRecentlyUsed.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\bin\Debug\net8.0\LeastRecentlyUsed.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\bin\Debug\net8.0\LeastRecentlyUsed.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\bin\Debug\net8.0\LeastRecentlyUsed.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\refint\LeastRecentlyUsed.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\LeastRecentlyUsed.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\LeastRecentlyUsed\obj\Debug\net8.0\ref\LeastRecentlyUsed.dll
