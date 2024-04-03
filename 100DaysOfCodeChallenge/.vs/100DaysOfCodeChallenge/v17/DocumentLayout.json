@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D716D2B-7B52-4123-91C2-467E9922E3C0}|LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\lengthoflongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D716D2B-7B52-4123-91C2-467E9922E3C0}|LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj|solutionrelative:lengthoflongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\leastrecentlyused\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|solutionrelative:leastrecentlyused\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LengthOfLongestSubstring\\Program.cs",
+              "RelativeDocumentMoniker": "LengthOfLongestSubstring\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LengthOfLongestSubstring\\Program.cs",
+              "RelativeToolTip": "LengthOfLongestSubstring\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAlwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:56:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Node.cs",
               "RelativeDocumentMoniker": "LeastRecentlyUsed\\Node.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "LeastRecentlyUsed\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:31:23.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T20:31:23.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomLinkedList.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\CustomLinkedList.cs",
               "RelativeDocumentMoniker": "LeastRecentlyUsed\\CustomLinkedList.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "LeastRecentlyUsed\\CustomLinkedList.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAEwBwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:31:13.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T20:31:13.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LRUCache.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\LRUCache.cs",
               "RelativeDocumentMoniker": "LeastRecentlyUsed\\LRUCache.cs",
@@ -84,12 +99,11 @@
               "RelativeToolTip": "LeastRecentlyUsed\\LRUCache.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAEwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:19:03.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T20:19:03.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Program.cs",
               "RelativeDocumentMoniker": "LeastRecentlyUsed\\Program.cs",
@@ -102,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\WordSearch\\Program.cs",
               "RelativeDocumentMoniker": "WordSearch\\Program.cs",
@@ -115,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\CountIslands\\Program.cs",
               "RelativeDocumentMoniker": "CountIslands\\Program.cs",
@@ -127,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeIntervals\\Program.cs",
               "RelativeDocumentMoniker": "MergeIntervals\\Program.cs",
@@ -140,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestSubarrayWithSumK\\Program.cs",
               "RelativeDocumentMoniker": "LongestSubarrayWithSumK\\Program.cs",
@@ -153,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\PeakElement\\Program.cs",
               "RelativeDocumentMoniker": "PeakElement\\Program.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8871e98ca18793903fa3e7ded5c2b53c5966bb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44e2563ce17af50a1edf5ef307393a3f9ae462a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
