@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordSearch", "WordSearch\Wo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeastRecentlyUsed", "LeastRecentlyUsed\LeastRecentlyUsed.csproj", "{564A5D57-7D2B-4747-B4FC-0EDC57B27420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLongestSubstring", "LengthOfLongestSubstring\LengthOfLongestSubstring.csproj", "{3D716D2B-7B52-4123-91C2-467E9922E3C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLongestSubstring", "LengthOfLongestSubstring\LengthOfLongestSubstring.csproj", "{3D716D2B-7B52-4123-91C2-467E9922E3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{3580F094-D6D5-4145-8097-8FAA5A9340CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{3D716D2B-7B52-4123-91C2-467E9922E3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D716D2B-7B52-4123-91C2-467E9922E3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D716D2B-7B52-4123-91C2-467E9922E3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3580F094-D6D5-4145-8097-8FAA5A9340CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3580F094-D6D5-4145-8097-8FAA5A9340CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3580F094-D6D5-4145-8097-8FAA5A9340CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3580F094-D6D5-4145-8097-8FAA5A9340CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

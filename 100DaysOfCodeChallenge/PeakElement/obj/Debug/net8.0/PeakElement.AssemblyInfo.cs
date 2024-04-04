@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PeakElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44e2563ce17af50a1edf5ef307393a3f9ae462a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b47a1ff707dfbb286ad4362c0d92272ca24d0a16")]
 [assembly: System.Reflection.AssemblyProductAttribute("PeakElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PeakElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

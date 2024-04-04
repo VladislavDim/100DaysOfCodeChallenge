@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\bin\Debug\net8.0\ReverseInteger.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\bin\Debug\net8.0\ReverseInteger.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\bin\Debug\net8.0\ReverseInteger.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\bin\Debug\net8.0\ReverseInteger.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\bin\Debug\net8.0\ReverseInteger.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\refint\ReverseInteger.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ReverseInteger.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ReverseInteger\obj\Debug\net8.0\ref\ReverseInteger.dll
