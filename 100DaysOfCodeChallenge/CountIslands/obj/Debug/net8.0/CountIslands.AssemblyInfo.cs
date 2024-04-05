@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountIslands")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b47a1ff707dfbb286ad4362c0d92272ca24d0a16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09c3ea8b3d0291bdd025b43070708e417942a64")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountIslands")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountIslands")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

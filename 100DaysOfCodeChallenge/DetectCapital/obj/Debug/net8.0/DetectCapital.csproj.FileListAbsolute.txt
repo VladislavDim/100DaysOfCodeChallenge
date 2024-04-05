@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\bin\Debug\net8.0\DetectCapital.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\bin\Debug\net8.0\DetectCapital.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\bin\Debug\net8.0\DetectCapital.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\bin\Debug\net8.0\DetectCapital.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\bin\Debug\net8.0\DetectCapital.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\refint\DetectCapital.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\DetectCapital.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\DetectCapital\obj\Debug\net8.0\ref\DetectCapital.dll
