@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\bin\Debug\net8.0\FirstUniqueCharacter.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\bin\Debug\net8.0\FirstUniqueCharacter.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\bin\Debug\net8.0\FirstUniqueCharacter.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\bin\Debug\net8.0\FirstUniqueCharacter.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\bin\Debug\net8.0\FirstUniqueCharacter.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\refint\FirstUniqueCharacter.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\FirstUniqueCharacter.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\FirstUniqueCharacter\obj\Debug\net8.0\ref\FirstUniqueCharacter.dll

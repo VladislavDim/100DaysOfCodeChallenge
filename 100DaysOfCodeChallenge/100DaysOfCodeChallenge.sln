@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectCapital", "DetectCapital\DetectCapital.csproj", "{12CFA46D-01DF-4FE3-A643-E1A6D877B16B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C23C687C-C82C-43AF-9534-39E9E510123F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C23C687C-C82C-43AF-9534-39E9E510123F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacter", "FirstUniqueCharacter\FirstUniqueCharacter.csproj", "{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{C23C687C-C82C-43AF-9534-39E9E510123F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C23C687C-C82C-43AF-9534-39E9E510123F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C23C687C-C82C-43AF-9534-39E9E510123F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
