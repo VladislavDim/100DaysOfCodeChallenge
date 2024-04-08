@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectCapital", "DetectCapi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelCount", "VowelCount\VowelCount.csproj", "{C23C687C-C82C-43AF-9534-39E9E510123F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacter", "FirstUniqueCharacter\FirstUniqueCharacter.csproj", "{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstUniqueCharacter", "FirstUniqueCharacter\FirstUniqueCharacter.csproj", "{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BST", "BST\BST.csproj", "{9A0756F7-8291-45AA-A5F3-697863840FF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0756F7-8291-45AA-A5F3-697863840FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0756F7-8291-45AA-A5F3-697863840FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0756F7-8291-45AA-A5F3-697863840FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0756F7-8291-45AA-A5F3-697863840FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
