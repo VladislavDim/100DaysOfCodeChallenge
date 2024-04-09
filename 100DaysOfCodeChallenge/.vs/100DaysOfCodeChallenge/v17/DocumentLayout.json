@@ -3,72 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|solutionrelative:bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\bst\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|solutionrelative:bst\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\bst\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|solutionrelative:bst\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|solutionrelative:bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}|FirstUniqueCharacter\\FirstUniqueCharacter.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\firstuniquecharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7848AA43-E4B4-4C4F-83C2-716AFCE9A304}|FirstUniqueCharacter\\FirstUniqueCharacter.csproj|solutionrelative:firstuniquecharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23C687C-C82C-43AF-9534-39E9E510123F}|VowelCount\\VowelCount.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\vowelcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23C687C-C82C-43AF-9534-39E9E510123F}|VowelCount\\VowelCount.csproj|solutionrelative:vowelcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12CFA46D-01DF-4FE3-A643-E1A6D877B16B}|DetectCapital\\DetectCapital.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\detectcapital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12CFA46D-01DF-4FE3-A643-E1A6D877B16B}|DetectCapital\\DetectCapital.csproj|solutionrelative:detectcapital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3580F094-D6D5-4145-8097-8FAA5A9340CE}|ReverseInteger\\ReverseInteger.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\reverseinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3580F094-D6D5-4145-8097-8FAA5A9340CE}|ReverseInteger\\ReverseInteger.csproj|solutionrelative:reverseinteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D716D2B-7B52-4123-91C2-467E9922E3C0}|LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\lengthoflongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D716D2B-7B52-4123-91C2-467E9922E3C0}|LengthOfLongestSubstring\\LengthOfLongestSubstring.csproj|solutionrelative:lengthoflongestsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\leastrecentlyused\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|solutionrelative:leastrecentlyused\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\leastrecentlyused\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|solutionrelative:leastrecentlyused\\lrucache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\leastrecentlyused\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|solutionrelative:leastrecentlyused\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\leastrecentlyused\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{564A5D57-7D2B-4747-B4FC-0EDC57B27420}|LeastRecentlyUsed\\LeastRecentlyUsed.csproj|solutionrelative:leastrecentlyused\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A25AA451-A0BB-4A5C-A277-B8A62C2F87CA}|WordSearch\\WordSearch.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A25AA451-A0BB-4A5C-A277-B8A62C2F87CA}|WordSearch\\WordSearch.csproj|solutionrelative:wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}|CountIslands\\CountIslands.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\countislands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDFFB5E8-3BAF-4C00-8360-1271CAFC36E7}|CountIslands\\CountIslands.csproj|solutionrelative:countislands\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}|MergeIntervals\\MergeIntervals.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\mergeintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B991FEC7-2E4B-4BF9-8156-5086004AE3E9}|MergeIntervals\\MergeIntervals.csproj|solutionrelative:mergeintervals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A04D60-F0BA-4A0C-8B7B-4BBABE8E364A}|LongestSubarrayWithSumK\\LongestSubarrayWithSumK.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\longestsubarraywithsumk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A04D60-F0BA-4A0C-8B7B-4BBABE8E364A}|LongestSubarrayWithSumK\\LongestSubarrayWithSumK.csproj|solutionrelative:longestsubarraywithsumk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}|PeakElement\\PeakElement.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\peakelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08BDFB86-DEC9-47BA-8ACD-31BDA980A24A}|PeakElement\\PeakElement.csproj|solutionrelative:peakelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,215 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BinarySearchTree.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\BinarySearchTree.cs",
-              "RelativeDocumentMoniker": "BST\\BinarySearchTree.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\BinarySearchTree.cs",
-              "RelativeToolTip": "BST\\BinarySearchTree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T07:12:37.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Node.cs",
               "RelativeDocumentMoniker": "BST\\Node.cs",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Node.cs",
               "RelativeToolTip": "BST\\Node.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T07:05:37.9Z",
+              "WhenOpened": "2024-04-09T08:14:51.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Program.cs",
               "RelativeDocumentMoniker": "BST\\Program.cs",
               "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Program.cs",
               "RelativeToolTip": "BST\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T07:03:00.733Z",
+              "WhenOpened": "2024-04-09T08:07:20.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\FirstUniqueCharacter\\Program.cs",
-              "RelativeDocumentMoniker": "FirstUniqueCharacter\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\FirstUniqueCharacter\\Program.cs",
-              "RelativeToolTip": "FirstUniqueCharacter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "BST\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\BinarySearchTree.cs",
+              "RelativeToolTip": "BST\\BinarySearchTree.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T09:58:48.311Z",
+              "WhenOpened": "2024-04-08T07:12:37.653Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\VowelCount\\Program.cs",
-              "RelativeDocumentMoniker": "VowelCount\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\VowelCount\\Program.cs",
-              "RelativeToolTip": "VowelCount\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T15:33:17.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectCapital\\Program.cs",
-              "RelativeDocumentMoniker": "DetectCapital\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\DetectCapital\\Program.cs",
-              "RelativeToolTip": "DetectCapital\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T05:48:11.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseInteger\\Program.cs",
-              "RelativeDocumentMoniker": "ReverseInteger\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\ReverseInteger\\Program.cs",
-              "RelativeToolTip": "ReverseInteger\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T05:22:48.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LengthOfLongestSubstring\\Program.cs",
-              "RelativeDocumentMoniker": "LengthOfLongestSubstring\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LengthOfLongestSubstring\\Program.cs",
-              "RelativeToolTip": "LengthOfLongestSubstring\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAlwCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T04:56:03.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Node.cs",
-              "RelativeDocumentMoniker": "LeastRecentlyUsed\\Node.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Node.cs",
-              "RelativeToolTip": "LeastRecentlyUsed\\Node.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:31:23.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\CustomLinkedList.cs",
-              "RelativeDocumentMoniker": "LeastRecentlyUsed\\CustomLinkedList.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\CustomLinkedList.cs",
-              "RelativeToolTip": "LeastRecentlyUsed\\CustomLinkedList.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAEwBwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:31:13.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LRUCache.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\LRUCache.cs",
-              "RelativeDocumentMoniker": "LeastRecentlyUsed\\LRUCache.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\LRUCache.cs",
-              "RelativeToolTip": "LeastRecentlyUsed\\LRUCache.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAEwBgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:19:03.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Program.cs",
-              "RelativeDocumentMoniker": "LeastRecentlyUsed\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LeastRecentlyUsed\\Program.cs",
-              "RelativeToolTip": "LeastRecentlyUsed\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T19:53:33.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\WordSearch\\Program.cs",
-              "RelativeDocumentMoniker": "WordSearch\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\WordSearch\\Program.cs",
-              "RelativeToolTip": "WordSearch\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwD4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T18:58:34.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\CountIslands\\Program.cs",
-              "RelativeDocumentMoniker": "CountIslands\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\CountIslands\\Program.cs",
-              "RelativeToolTip": "CountIslands\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T05:45:38.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeIntervals\\Program.cs",
-              "RelativeDocumentMoniker": "MergeIntervals\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\MergeIntervals\\Program.cs",
-              "RelativeToolTip": "MergeIntervals\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T21:04:43.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestSubarrayWithSumK\\Program.cs",
-              "RelativeDocumentMoniker": "LongestSubarrayWithSumK\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestSubarrayWithSumK\\Program.cs",
-              "RelativeToolTip": "LongestSubarrayWithSumK\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowB4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T05:43:43.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\PeakElement\\Program.cs",
-              "RelativeDocumentMoniker": "PeakElement\\Program.cs",
-              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\PeakElement\\Program.cs",
-              "RelativeToolTip": "PeakElement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T06:58:19.955Z"
             }
           ]
         }
