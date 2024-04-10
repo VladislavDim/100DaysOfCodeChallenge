@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongestSubarrayWithSumK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3949305749efa207956b77bb5295dc60535f4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb57d2c7fa45c50db22fb14e665630e588eeff66")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongestSubarrayWithSumK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongestSubarrayWithSumK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

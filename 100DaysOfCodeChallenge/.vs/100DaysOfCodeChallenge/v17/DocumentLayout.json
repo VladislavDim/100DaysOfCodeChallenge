@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD8B4731-0B60-4EFE-874A-CA44D37F7F3E}|LongestPalindromicSubstring\\LongestPalindromicSubstring.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\longestpalindromicsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8B4731-0B60-4EFE-874A-CA44D37F7F3E}|LongestPalindromicSubstring\\LongestPalindromicSubstring.csproj|solutionrelative:longestpalindromicsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|c:\\users\\vladislavd\\desktop\\100daysofcodechallenge\\100daysofcodechallenge\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0756F7-8291-45AA-A5F3-697863840FF1}|BST\\BST.csproj|solutionrelative:bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestPalindromicSubstring\\Program.cs",
+              "RelativeDocumentMoniker": "LongestPalindromicSubstring\\Program.cs",
+              "ToolTip": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\LongestPalindromicSubstring\\Program.cs",
+              "RelativeToolTip": "LongestPalindromicSubstring\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:28:04.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Node.cs",
               "RelativeDocumentMoniker": "BST\\Node.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "BST\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T08:14:51.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T08:14:51.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\Program.cs",
               "RelativeDocumentMoniker": "BST\\Program.cs",
@@ -52,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BinarySearchTree.cs",
               "DocumentMoniker": "C:\\Users\\VladislavD\\Desktop\\100DaysOfCodeChallenge\\100DaysOfCodeChallenge\\BST\\BinarySearchTree.cs",
               "RelativeDocumentMoniker": "BST\\BinarySearchTree.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "BST\\BinarySearchTree.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAIEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T07:12:37.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T07:12:37.653Z"
             }
           ]
         }
