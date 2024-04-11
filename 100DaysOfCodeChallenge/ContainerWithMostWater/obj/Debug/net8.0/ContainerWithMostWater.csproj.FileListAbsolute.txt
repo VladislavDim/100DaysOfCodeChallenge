@@ -1,0 +1,15 @@
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.exe
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.deps.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.runtimeconfig.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.sourcelink.json
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\refint\ContainerWithMostWater.dll
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.genruntimeconfig.cache
+C:\Users\VladislavD\Desktop\100DaysOfCodeChallenge\100DaysOfCodeChallenge\ContainerWithMostWater\obj\Debug\net8.0\ref\ContainerWithMostWater.dll
