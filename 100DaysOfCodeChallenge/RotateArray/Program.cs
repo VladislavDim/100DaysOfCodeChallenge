@@ -4,25 +4,19 @@
     {
         static void Main(string[] args)
         {
-            int[] array = Console.ReadLine()
+            Queue<int> queue = new Queue<int>(Console.ReadLine()
                 .Split(",")
-                .Select(int.Parse)
-                .ToArray();
+                .Select(int.Parse));
 
             int n = int.Parse(Console.ReadLine());
 
-            int[] newArray = new int[array.Length];
-
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < n; i++)
             {
-                if (i + n + 1 <= array.Length)
-                {
-                    newArray[i] = array[i + n + 1];
-                }
-                newArray[n + 1] = array[i];
+                int crnValue = queue.Dequeue();
+                queue.Enqueue(crnValue);
 
             }
-            Console.WriteLine(string.Join(", ", newArray));
+            Console.WriteLine(string.Join(", ", queue));
         }
     }
 }
