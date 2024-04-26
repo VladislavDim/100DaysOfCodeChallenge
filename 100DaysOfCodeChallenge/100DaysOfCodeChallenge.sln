@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicSubstring
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{AC661D89-4434-41A2-A799-028E8DDE548D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{58579C52-9CF1-471F-BE9D-4CC755F7D065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{58579C52-9CF1-471F-BE9D-4CC755F7D065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{9AA03984-C641-4822-94E2-AEF01C7E77A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{58579C52-9CF1-471F-BE9D-4CC755F7D065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58579C52-9CF1-471F-BE9D-4CC755F7D065}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58579C52-9CF1-471F-BE9D-4CC755F7D065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA03984-C641-4822-94E2-AEF01C7E77A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA03984-C641-4822-94E2-AEF01C7E77A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA03984-C641-4822-94E2-AEF01C7E77A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA03984-C641-4822-94E2-AEF01C7E77A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

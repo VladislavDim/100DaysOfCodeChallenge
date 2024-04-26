@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeIntervals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4d14f44756c18ccd256baeb50b94a21924f4856")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4979049c0b167080c6f44b3f0135ea0b42008f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeIntervals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeIntervals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

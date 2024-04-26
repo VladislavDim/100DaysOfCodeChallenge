@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RotateArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f628425c499b9d9aaa068ea42a2614d1c350e96f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4979049c0b167080c6f44b3f0135ea0b42008f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RotateArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RotateArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
